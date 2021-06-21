@@ -41,3 +41,5 @@ firebase.auth().onAuthStateChanged((user) => {
     history.push('/');
   }
 });
+
+// Final Edits complete to run boilerplate
